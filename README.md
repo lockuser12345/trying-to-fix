@@ -1,6 +1,0 @@
-- 👋 Hi, I’m @TwoMuchRed
-- 👀 I’m interested in udjasjd
-- 🌱 I’m currently learning html and css lol
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me idk
-- ⚡ Fun fact: tomatos are red
