@@ -5,3 +5,7 @@
   favorite-color: red(obv);
   }
 
+.projects {
+  owns: [Ruby Arcade](https://rubyarcade.lol);
+  owns: [Rubium](https://rubyium.web.app);
+}
